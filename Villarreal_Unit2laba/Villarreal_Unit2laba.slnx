@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Villarreal_Unit2laba/Villarreal_Unit2laba.vcxproj" />
+</Solution>
