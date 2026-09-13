@@ -5,16 +5,19 @@
 
 #include <iostream>
 #include <cmath>
+
 using namespace std;
 int main()
 {
 	//define variables.
 	double capacity, mpg, range;
+	
 	//get user fuel capacity and estimated MPG.
 	cout << "Enter the fuel tank capacity in gallons:";
 	cin >> capacity;
 	cout << "Enter the estimated miles per gallon traveling : ";
 	cin >> mpg;
+	
 	//calculate and display users range with rounding and without rounding. 
 	range = capacity * mpg;
 	cout << "The car can be driven " << range << " miles without refueling." << endl;
