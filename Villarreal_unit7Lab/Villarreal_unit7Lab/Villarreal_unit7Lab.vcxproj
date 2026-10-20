@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7e70b841-9aff-4cef-88c3-b8d035983e89}</ProjectGuid>
-    <RootNamespace>firstproject</RootNamespace>
+    <ProjectGuid>{2e0c4418-6537-48fd-9a3b-8d948df26a8f}</ProjectGuid>
+    <RootNamespace>Villarrealunit7Lab</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="TEST111.cpp" />
+    <ClCompile Include="Villarreal_unit7Lab.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

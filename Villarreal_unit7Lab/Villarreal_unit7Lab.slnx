@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="firstproject/firstproject.vcxproj" />
+  <Project Path="Villarreal_unit7Lab/Villarreal_unit7Lab.vcxproj" />
 </Solution>
